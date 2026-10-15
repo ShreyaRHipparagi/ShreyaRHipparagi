@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🎓 2nd Year B.E. — Information Science & Engineering
+### 🎓 3rd Year B.E. — Information Science & Engineering
 **JSS Academy of Technical Education, Bangalore**
 
 ### 🚀 **Aspiring SDE** — Full-Stack • AI/ML • System Design
